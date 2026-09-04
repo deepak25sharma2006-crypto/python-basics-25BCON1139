@@ -1,6 +1,6 @@
-# Python Basics (Course Code: 25BCON1079)
+# Python Basics (Course Code: 25BCON1139)
 
-Welcome to the **Python Basics** repository! This project serves as a structured collection of fundamental Python programs, lab exercises, and algorithmic solutions developed as part of the academic curriculum (`25BCON1079`).
+Welcome to the **Python Basics** repository! This project serves as a structured collection of fundamental Python programs, lab exercises, and algorithmic solutions developed as part of the academic curriculum (`25BCON1139`).
 
 ---
 
